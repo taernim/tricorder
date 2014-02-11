@@ -1,0 +1,9 @@
+Flask==0.10.1
+Jinja2==2.7.2
+MarkupSafe==0.18
+gunicorn==18.0
+httplib2==0.8
+itsdangerous==0.23
+py2app==0.7.1
+pyOpenSSL==0.13
+twilio==3.6.5
